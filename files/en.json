@@ -1,0 +1,24 @@
+{
+  "signup": {
+    "text": {
+      "title": "Create Account",
+      "subtitle": "Provide your basic information",
+      "or": "or",
+      "hasAccount": "Already have an Account?",
+      "noAccount": "Dont't have and account?",
+      "iBuyer": "I am a Buyer",
+      "iOwner": "I am a Shop Owner",
+      "login": "Login"
+    },
+    "placeholder": {
+      "name": "Full Name",
+      "email": "Your Email",
+      "password": "Password"
+    },
+    "label": {
+      "name": "Name",
+      "email": "Email",
+      "password": "Password"
+    }
+  }
+}

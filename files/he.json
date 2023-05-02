@@ -1,0 +1,22 @@
+{
+  "signup": {
+    "text": {
+      "title": "צור חשבון",
+      "subtitle": "ספק את המידע הבסיסי שלך",
+      "or": "אוֹ",
+      "hasAccount": "כבר יש לך חשבון?",
+      "login": "התחברות",
+      "noAccount": "אין לך חשבון?"
+    },
+    "placeholder": {
+      "name": "שם מלא",
+      "email": "האימייל שלך",
+      "password": "סיסמה"
+    },
+    "label": {
+      "name": "שֵׁם",
+      "email": "אימייל",
+      "password": "סיסמה"
+    }
+  }
+}
