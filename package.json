@@ -1,7 +1,7 @@
 {
   "name": "i18n-diff",
   "description": "Automatically translate your i18n files using Google Translate API",
-  "author": "",
+  "author": "Nadav Cohen",
   "version": "0.1",
   "main": "index.js",
   "license": "ISC",
